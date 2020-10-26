@@ -7,5 +7,60 @@
   ],
   "babyData": [
     { "name": "John", "gender": "Male", "birthDate": "2020-01-01T09:00:00.000Z", "lastMeasurementDate": "2020-10-21T09:00:00.000Z", "weight": 5.7 }
+  ],
+  "historyData": [
+    { "title": "Last Measurement",
+      "data": [
+        {
+          "title": "",
+          "data": [
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false }
+          ]
+        }
+      ]
+    },
+    { "title": "This Week",
+      "data": [
+        {
+          "title": "",
+          "data": [
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false }
+          ]
+        }
+      ]
+    },
+    { "title": "This Month",
+      "data": [
+        {
+          "title": "Week 3 average: 75.2kg",
+          "data": [
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false }
+          ]
+        },
+        {
+          "title": "Week 2 average: 75.2kg",
+          "data": [
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false }
+          ]
+        },
+        {
+          "title": "Week 1 average: 75.2kg",
+          "data": [
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
+            { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false }
+          ]
+        }
+      ]
+    }
   ]
 }
