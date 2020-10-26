@@ -1,25 +1,9 @@
 {
-  "hourlyGraphData": [
-    { "value": 85.6, "difference": -0.1, "date": "2020-10-21T09:00:00.000Z", "isGoalReached": false },
-    { "value": 84.0, "difference": -1.6, "date": "2020-10-21T12:00:00.000Z", "isGoalReached": false },
-    { "value": 84.5, "difference": 0.5, "date": "2020-10-21T17:00:00.000Z", "isGoalReached": true },
-    { "value": 86.0, "difference": 1.5, "date": "2020-10-21T18:00:00.000Z", "isGoalReached": false }
-  ],
-  "weeklyGraphData": [
-    { "value": 85.6, "difference": -0.1, "date": "2020-10-26T09:00:00.000Z", "isGoalReached": false }
-  ],
-  "monthlyGraphData": [
-    { "value": 85.6, "difference": -0.1, "date": "2020-03-21T09:00:00.000Z", "isGoalReached": false },
-    { "value": 84.0, "difference": -1.6, "date": "2020-07-21T12:00:00.000Z", "isGoalReached": true },
-    { "value": 84.5, "difference": 0.5, "date": "2020-08-21T17:00:00.000Z", "isGoalReached": true },
-    { "value": 86.0, "difference": 1.5, "date": "2020-10-21T18:00:00.000Z", "isGoalReached": false }
-  ],
-  "lastMeasurement__": { "value": 85.6, "difference": -0.1, "date": "2020-03-21T09:00:00.000Z", "isGoalReached": false },
-  "lastMeasurements": [
-    { "value": 85.6, "difference": -0.1, "date": "2020-10-21T09:00:00.000Z", "isGoalReached": false },
-    { "value": 84.0, "difference": -1.6, "date": "2020-10-21T12:00:00.000Z", "isGoalReached": false },
-    { "value": 84.5, "difference": 0.5, "date": "2020-10-21T17:00:00.000Z", "isGoalReached": true },
-    { "value": 86.0, "difference": 1.5, "date": "2020-10-21T18:00:00.000Z", "isGoalReached": false }
+  "measurementData": [
+    { "value": 85.6, "difference": -0.1, "date": "2020-03-26T09:00:00.000Z", "isGoalReached": false },
+    { "value": 84.0, "difference": -1.6, "date": "2020-07-26T12:00:00.000Z", "isGoalReached": false },
+    { "value": 84.5, "difference": 0.5, "date": "2020-08-26T17:00:00.000Z", "isGoalReached": true },
+    { "value": 86.0, "difference": 1.5, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false }
   ],
   "babyData": [
     { "name": "John", "gender": "Male", "birthDate": "2020-01-01T09:00:00.000Z", "lastMeasurementDate": "2020-10-21T09:00:00.000Z", "weight": 5.7 }
