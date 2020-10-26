@@ -1,5 +1,8 @@
 {
   "hourlyGraphData": [
-    { "value": 85.6, "difference": -0.1, "date": "2020-10-19T06:42:08+0000" }
+    { "value": 85.6, "difference": -0.1, "date": "2020-10-19T06:42:08+0000" },
+    { "value": 84.0, "difference": -1.6, "date": "2020-10-19T12:42:08+0000" },
+    { "value": 84.5, "difference": 0.5, "date": "2020-10-19T14:42:08+0000" },
+    { "value": 86.0, "difference": 1.5, "date": "2020-10-19T21:42:08+0000" }
   ]
 }
