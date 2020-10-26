@@ -22,6 +22,6 @@
     { "value": 86.0, "difference": 1.5, "date": "2020-10-21T18:00:00.000Z", "isGoalReached": false }
   ],
   "babyData": [
-    { "name": "John", "gender": "Male", "birthDate": "2020-01-01T09:00:00.000Z", "lastMeasurementDate": "2020-10-21T09:00:00.000Z", "weight": 5.7" }
+    { "name": "John", "gender": "Male", "birthDate": "2020-01-01T09:00:00.000Z", "lastMeasurementDate": "2020-10-21T09:00:00.000Z", "weight": 5.7 }
   ]
 }
