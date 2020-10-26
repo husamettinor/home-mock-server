@@ -12,7 +12,7 @@
     { "title": "Last Measurement",
       "data": [
         {
-          "title": "",
+          "title": null,
           "data": [
             { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false }
           ]
@@ -22,7 +22,7 @@
     { "title": "This Week",
       "data": [
         {
-          "title": "",
+          "title": null,
           "data": [
             { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
             { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false },
