@@ -1,9 +1,9 @@
 {
   "measurementData": [
     { "weight": 85.6, "weightDifference": -0.1, "fatRatio": 15.0, "muscleRatio": 60.0, "date": "2020-03-26T09:00:00.000Z", "isGoalReached": false },
-    { "weight": 84.0, "weightDifference": -1.6, "fatRatio": 14.0, "muscleRatio": 61.0,, "date": "2020-07-26T12:00:00.000Z", "isGoalReached": false },
-    { "weight": 84.5, "weightDifference": 0.5, "fatRatio": 14.2, "muscleRatio": 59.0,, "date": "2020-08-26T17:00:00.000Z", "isGoalReached": true },
-    { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3,, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false }
+    { "weight": 84.0, "weightDifference": -1.6, "fatRatio": 14.0, "muscleRatio": 61.0, "date": "2020-07-26T12:00:00.000Z", "isGoalReached": false },
+    { "weight": 84.5, "weightDifference": 0.5, "fatRatio": 14.2, "muscleRatio": 59.0, "date": "2020-08-26T17:00:00.000Z", "isGoalReached": true },
+    { "weight": 86.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-10-26T18:00:00.000Z", "isGoalReached": false }
   ],
   "babyData": [
     { "name": "John", "gender": "Male", "birthDate": "2020-01-01T09:00:00.000Z", "lastMeasurementDate": "2020-10-21T09:00:00.000Z", "weight": 5.7 }
