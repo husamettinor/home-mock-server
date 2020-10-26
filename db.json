@@ -20,5 +20,8 @@
     { "value": 84.0, "difference": -1.6, "date": "2020-10-21T12:00:00.000Z", "isGoalReached": false },
     { "value": 84.5, "difference": 0.5, "date": "2020-10-21T17:00:00.000Z", "isGoalReached": true },
     { "value": 86.0, "difference": 1.5, "date": "2020-10-21T18:00:00.000Z", "isGoalReached": false }
+  ],
+  babyData: [
+    { "name": "John", "date": "2020-10-21T09:00:00.000Z", "weight": 5.7" }
   ]
 }
