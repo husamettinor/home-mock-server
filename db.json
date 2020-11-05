@@ -87,7 +87,7 @@
       "statusTextColor": null,
       "scaleData": [
         { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
-        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 61, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
         { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
         { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
       ],
