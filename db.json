@@ -74,7 +74,7 @@
         { "minValue": null, "maxValue": 58, "doesContaintSelectedValue": false, "selectedValue": null, "color": [39, 169, 224], "topLabel": null, "bottomLabel": "A bit lean",
           "minValue": 58, "maxValue": 78, "doesContaintSelectedValue": true, "selectedValue": 61, "color": [255, 255, 255], "topLabel": "78 kg", "bottomLabel": "Standart",
           "minValue": 78, "maxValue": 93.7, "doesContaintSelectedValue": false, "selectedValue": null, "color": [255, 146, 0], "topLabel": "93.7 kg", "bottomLabel": "Chubby",
-          "minValue": 93.7, "maxValue": null, "doesContaintSelectedValue": false, "selectedValue": null, "color": [232, 71, 0], "topLabel": null, "bottomLabel": "Obesity",
+          "minValue": 93.7, "maxValue": null, "doesContaintSelectedValue": false, "selectedValue": null, "color": [232, 71, 0], "topLabel": null, "bottomLabel": "Obesity"
         }
       ],
       "scaleDataDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
@@ -89,7 +89,7 @@
         { "minValue": null, "maxValue": 10, "doesContaintSelectedValue": false, "selectedValue": null, "color": [39, 169, 224], "topLabel": null, "bottomLabel": "Low",
           "minValue": 10, "maxValue": 21, "doesContaintSelectedValue": true, "selectedValue": 61, "color": [255, 255, 255], "topLabel": "78 kg", "bottomLabel": "Standart",
           "minValue": 21, "maxValue": 25, "doesContaintSelectedValue": false, "selectedValue": null, "color": [255, 146, 0], "topLabel": "93.7 kg", "bottomLabel": "High",
-          "minValue": 25, "maxValue": null, "doesContaintSelectedValue": false, "selectedValue": null, "color": [232, 71, 0], "topLabel": null, "bottomLabel": "Extreme",
+          "minValue": 25, "maxValue": null, "doesContaintSelectedValue": false, "selectedValue": null, "color": [232, 71, 0], "topLabel": null, "bottomLabel": "Extreme"
         }
       ],
       "scaleDataDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
