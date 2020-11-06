@@ -211,40 +211,6 @@
       "scaleDataDescription": "is the body fat that is stored around a human’s organs. Carrying excess body fat in this region places you at greater risk for chronic diseases including heart disease, high blood pressure, and type 2 diabetes. For optimal health, a user’s visceral fat index should stay under 13. This fat holds up to 10% of total body fat.",
       "bodyType": null
     },
-    
-
-    { "titleLabel": "Subcutaneous Fat",
-      "valueLabel": "15.7 kg",
-      "ratioLabel": "%14.3",
-      "statusLabel": null,
-      "statusBackgroundColor": null,
-      "statusTextColor": null,
-      "scaleData": [
-        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
-        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
-        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
-        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
-      ],
-      "scaleDataDescription": "Is the body fat stored under a person’s skin which holds about 90% of total body fat, is defined as the layer of adipose tissue between the skin and muscles.",
-      "bodyType": null
-    },
-    
-
-    { "titleLabel": "Skeletal Muscle",
-      "valueLabel": "15.7 kg",
-      "ratioLabel": "%14.3",
-      "statusLabel": null,
-      "statusBackgroundColor": null,
-      "statusTextColor": null,
-      "scaleData": [
-        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
-        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
-        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
-        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
-      ],
-      "scaleDataDescription": "The skeletal muscles of a person’s body are attached to bone and the combination of bones, muscle tissue, blood vessels, tendons and nerves enables a person to move and control their movement.",
-      "bodyType": null
-    },
 
     { "titleLabel": "Somatotype:",
       "valueLabel": "Slightly Chubby",
