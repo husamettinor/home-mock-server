@@ -2,15 +2,15 @@
   "measurementDataDaily": [
     { "weight": 84.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-11-03T10:00:00.000Z", "isGoalReached": true },
     { "weight": 86.2, "weightDifference": 1.2, "fatRatio": 12.3, "muscleRatio": 59.3, "date": "2020-11-03T12:00:00.000Z", "isGoalReached": false },
-    { "weight": 83.4, "weightDifference": 1.3, "fatRatio": 15.6, "muscleRatio": 60.3, "date": "2020-11-03T14:00:00.000Z", "isGoalReached": false },
-    { "weight": 80.3, "weightDifference": 1.4, "fatRatio": 13.8, "muscleRatio": 60.3, "date": "2020-11-03T16:00:00.000Z", "isGoalReached": false },
+    { "weight": 81.4, "weightDifference": 1.3, "fatRatio": 15.6, "muscleRatio": 60.3, "date": "2020-11-03T14:00:00.000Z", "isGoalReached": false },
+    { "weight": 85.3, "weightDifference": 1.4, "fatRatio": 13.8, "muscleRatio": 60.3, "date": "2020-11-03T16:00:00.000Z", "isGoalReached": false },
     { "weight": 81.8, "weightDifference": 1.5, "fatRatio": 14.9, "muscleRatio": 60.3, "date": "2020-11-03T18:00:00.000Z", "isGoalReached": false }
   ],
 
 "measurementDataWeekly": [
     { "weight": 84.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-11-02T10:00:00.000Z", "isGoalReached": true },
     { "weight": 86.2, "weightDifference": 1.2, "fatRatio": 12.3, "muscleRatio": 59.3, "date": "2020-11-03T12:00:00.000Z", "isGoalReached": false },
-    { "weight": 83.4, "weightDifference": 1.3, "fatRatio": 15.6, "muscleRatio": 60.3, "date": "2020-11-04T14:00:00.000Z", "isGoalReached": false },
+    { "weight": 79.4, "weightDifference": 1.3, "fatRatio": 15.6, "muscleRatio": 60.3, "date": "2020-11-04T14:00:00.000Z", "isGoalReached": false },
     { "weight": 80.3, "weightDifference": 1.4, "fatRatio": 13.8, "muscleRatio": 60.3, "date": "2020-11-05T16:00:00.000Z", "isGoalReached": false },
     { "weight": 81.8, "weightDifference": 1.5, "fatRatio": 14.9, "muscleRatio": 60.3, "date": "2020-11-06T18:00:00.000Z", "isGoalReached": false }
   ],
@@ -19,14 +19,14 @@
     { "weight": 84.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-03-03T10:00:00.000Z", "isGoalReached": true },
     { "weight": 86.2, "weightDifference": 1.2, "fatRatio": 12.3, "muscleRatio": 59.3, "date": "2020-04-03T12:00:00.000Z", "isGoalReached": false },
     { "weight": 83.4, "weightDifference": 1.3, "fatRatio": 15.6, "muscleRatio": 60.3, "date": "2020-05-03T14:00:00.000Z", "isGoalReached": false },
-    { "weight": 80.3, "weightDifference": 1.4, "fatRatio": 13.8, "muscleRatio": 60.3, "date": "2020-06-03T16:00:00.000Z", "isGoalReached": false },
+    { "weight": 84.3, "weightDifference": 1.4, "fatRatio": 13.8, "muscleRatio": 60.3, "date": "2020-06-03T16:00:00.000Z", "isGoalReached": false },
     { "weight": 81.8, "weightDifference": 1.5, "fatRatio": 14.9, "muscleRatio": 60.3, "date": "2020-07-03T18:00:00.000Z", "isGoalReached": false }
   ],
   
   "measurementDataHistory": [
     { "weight": 84.0, "weightDifference": 1.5, "fatRatio": 14.8, "muscleRatio": 60.3, "date": "2020-03-03T10:00:00.000Z", "isGoalReached": true },
     { "weight": 86.2, "weightDifference": 1.2, "fatRatio": 12.3, "muscleRatio": 59.3, "date": "2020-04-03T12:00:00.000Z", "isGoalReached": false },
-    { "weight": 83.4, "weightDifference": 1.3, "fatRatio": 15.6, "muscleRatio": 60.3, "date": "2020-05-03T14:00:00.000Z", "isGoalReached": false },
+    { "weight": 80.4, "weightDifference": 1.3, "fatRatio": 15.6, "muscleRatio": 60.3, "date": "2020-05-03T14:00:00.000Z", "isGoalReached": false },
     { "weight": 80.3, "weightDifference": 1.4, "fatRatio": 13.8, "muscleRatio": 60.3, "date": "2020-06-03T16:00:00.000Z", "isGoalReached": false },
     { "weight": 80.3, "weightDifference": 1.4, "fatRatio": 13.8, "muscleRatio": 60.3, "date": "2020-07-03T16:00:00.000Z", "isGoalReached": false }
   ],
