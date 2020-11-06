@@ -32,6 +32,7 @@
   ],
   
   "measurementDetailData": [
+
     { "titleLabel": "Weight",
       "valueLabel": "72.7 kg",
       "ratioLabel": null,
@@ -44,9 +45,10 @@
         { "minValue": 78, "maxValue": 93.7, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "Chubby" },
         { "minValue": 93.7, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Obesity" }
       ],
-      "scaleDataDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+      "scaleDataDescription": "A body&#39;s relative mass; the heaviness of a person or thing.",
       "bodyType": null
     },
+
     { "titleLabel": "Body Fat",
       "valueLabel": "15.7 kg",
       "ratioLabel": "%14.3",
@@ -59,18 +61,201 @@
         { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
         { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
       ],
-      "scaleDataDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+      "scaleDataDescription": "Is the measurement body fat mass, it includes the body fat percentage (BFP) which is calculated as total mass of fat divided by total body mass, multiplied by 100. The body fat percentage is a measure of fitness level and it is the only body measurement which directly calculates a person's relative body composition without the need of height or weight parameters.",
       "bodyType": null
     },
-    { "titleLabel": "Soma Type",
+
+    { "titleLabel": "Bone",
+      "valueLabel": "15.7 kg",
+      "ratioLabel": "%14.3",
+      "statusLabel": null,
+      "statusBackgroundColor": null,
+      "statusTextColor": null,
+      "scaleData": [
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
+      ],
+      "scaleDataDescription": "Bone mass is the total amount of mass attributed to bone. Dry bone mass is derived from age and lean body mass which is the difference of total body mass and total body fat. On average, a user's dry bone mass will be around 7% of their total weight. The value will typically be higher for younger adults and lower for older.",
+      "bodyType": null
+    },
+
+    { "titleLabel": "Muscle",
+      "valueLabel": "15.7 kg",
+      "ratioLabel": "%14.3",
+      "statusLabel": null,
+      "statusBackgroundColor": null,
+      "statusTextColor": null,
+      "scaleData": [
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
+      ],
+      "scaleDataDescription": "Muscle mass includes the weight of the muscles in a user’s body in kilograms or pounds. While the body fat percentage measures the amount of fat a person’s body holds. Burning body fat results in the accumulated muscle mass.",
+      "bodyType": null
+    },
+
+    { "titleLabel": "Protein",
+      "valueLabel": "15.7 kg",
+      "ratioLabel": "%14.3",
+      "statusLabel": null,
+      "statusBackgroundColor": null,
+      "statusTextColor": null,
+      "scaleData": [
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
+      ],
+      "scaleDataDescription": "Is the amount of protein in the user’s body. A lack of protein can be linked to an increase in body fats. There is a link between protein mass and muscle mass. As humans get older, the need of protein will increase due to anabolic resistance, which lowers the body's ability to break down and synthesize protein.",
+      "bodyType": null
+    },
+
+    { "titleLabel": "BMI",
+      "valueLabel": "15.7 kg",
+      "ratioLabel": "%14.3",
+      "statusLabel": null,
+      "statusBackgroundColor": null,
+      "statusTextColor": null,
+      "scaleData": [
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
+      ],
+      "scaleDataDescription": "Is a person&#39;s weight in kilograms divided by the square of height in meters. BMI is often used to estimate whether a person is underweight or overweight. High BMI indicates high body fatness. BMI can be used to screen for weight categories that may lead to health problems but it is not diagnostic of the body fatness or health of an individual.",
+      "bodyType": null
+    },
+
+    { "titleLabel": "Lean Body Mass",
+      "valueLabel": "15.7 kg",
+      "ratioLabel": "%14.3",
+      "statusLabel": null,
+      "statusBackgroundColor": null,
+      "statusTextColor": null,
+      "scaleData": [
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
+      ],
+      "scaleDataDescription": "Lean body mass (LBM) is a part of body composition that is defined as the difference between total body weight and body fat weight. It is less likely for a user with high LBM encounter associated health problems.",
+      "bodyType": null
+    },
+
+    { "titleLabel": "AMR",
+      "valueLabel": "15.7 kg",
+      "ratioLabel": "%14.3",
+      "statusLabel": null,
+      "statusBackgroundColor": null,
+      "statusTextColor": null,
+      "scaleData": [
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
+      ],
+      "scaleDataDescription": "is the number of calories that a user consumes on a daily basis depending on their height, gender, age, past weight and activity frequency while maintaining their current weight. AMR can be raised through increased exercise and physical activity.",
+      "bodyType": null
+    },
+    
+
+    { "titleLabel": "BMR",
+      "valueLabel": "15.7 kg",
+      "ratioLabel": "%14.3",
+      "statusLabel": null,
+      "statusBackgroundColor": null,
+      "statusTextColor": null,
+      "scaleData": [
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
+      ],
+      "scaleDataDescription": "is the number of calories required to keep a user&#39;s body functioning at rest. BMR is also known as your body&#39;s metabolism; therefore, any increase to your metabolic weight, such as exercise, will increase their BMR. BMR is derived by a user’s height, gender, age and scaled weight in the application.",
+      "bodyType": null
+    },
+    
+
+    { "titleLabel": "Hydration",
+      "valueLabel": "15.7 kg",
+      "ratioLabel": "%14.3",
+      "statusLabel": null,
+      "statusBackgroundColor": null,
+      "statusTextColor": null,
+      "scaleData": [
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
+      ],
+      "scaleDataDescription": "Measures what percentage of your weight is water.",
+      "bodyType": null
+    },
+    
+
+    { "titleLabel": "Visceral Fat Index",
+      "valueLabel": "15.7 kg",
+      "ratioLabel": "%14.3",
+      "statusLabel": null,
+      "statusBackgroundColor": null,
+      "statusTextColor": null,
+      "scaleData": [
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
+      ],
+      "scaleDataDescription": "is the body fat that is stored around a human’s organs. Carrying excess body fat in this region places you at greater risk for chronic diseases including heart disease, high blood pressure, and type 2 diabetes. For optimal health, a user’s visceral fat index should stay under 13. This fat holds up to 10% of total body fat.",
+      "bodyType": null
+    },
+    
+
+    { "titleLabel": "Subcutaneous Fat",
+      "valueLabel": "15.7 kg",
+      "ratioLabel": "%14.3",
+      "statusLabel": null,
+      "statusBackgroundColor": null,
+      "statusTextColor": null,
+      "scaleData": [
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
+      ],
+      "scaleDataDescription": "Is the body fat stored under a person’s skin which holds about 90% of total body fat, is defined as the layer of adipose tissue between the skin and muscles.",
+      "bodyType": null
+    },
+    
+
+    { "titleLabel": "Skeletal Muscle",
+      "valueLabel": "15.7 kg",
+      "ratioLabel": "%14.3",
+      "statusLabel": null,
+      "statusBackgroundColor": null,
+      "statusTextColor": null,
+      "scaleData": [
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
+      ],
+      "scaleDataDescription": "The skeletal muscles of a person’s body are attached to bone and the combination of bones, muscle tissue, blood vessels, tendons and nerves enables a person to move and control their movement.",
+      "bodyType": null
+    },
+
+    { "titleLabel": "Somatotype:",
       "valueLabel": "Slightly Chubby",
       "ratioLabel": null,
       "statusLabel": null,
       "statusBackgroundColor": null,
       "statusTextColor": null,
       "scaleData": null,
-      "scaleDataDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.",
+      "scaleDataDescription": "Human body shape and physique type. Humans can be classified to have the body build in terms of three extreme body types: endomorphic, or round, fat type; mesomorphic, or muscular type; and ectomorphic, or slim, linear type.",
       "bodyType": "smartScaleEctomorphBodyIcon"
     }
+
   ]
 }
