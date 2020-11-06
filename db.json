@@ -45,7 +45,7 @@
         { "minValue": 78, "maxValue": 93.7, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "Chubby" },
         { "minValue": 93.7, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Obesity" }
       ],
-      "scaleDataDescription": "A body&#39;s relative mass; the heaviness of a person or thing.",
+      "scaleDataDescription": "A body's relative mass; the heaviness of a person or thing.",
       "bodyType": null
     },
 
@@ -97,7 +97,7 @@
       "bodyType": null
     },
 
-    { "titleLabel": "Somatotype:",
+    { "titleLabel": "Somatotype",
       "valueLabel": "Slightly Chubby",
       "ratioLabel": null,
       "statusLabel": null,
