@@ -40,8 +40,8 @@
       "statusBackgroundColor": null,
       "statusTextColor": null,
       "scaleData": [
-        { "minValue": null, "maxValue": 58, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "A bit lean" },
-        { "minValue": 58, "maxValue": 78, "doesContainSelectedValue": true, "selectedValue": 61, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
+        { "minValue": null, "maxValue": 58, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": "58 kg", "bottomLabel": "A bit lean" },
+        { "minValue": 58, "maxValue": 78, "doesContainSelectedValue": true, "selectedValue": 74, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
         { "minValue": 78, "maxValue": 93.7, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "Chubby" },
         { "minValue": 93.7, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Obesity" }
       ],
@@ -56,9 +56,9 @@
       "statusBackgroundColor": null,
       "statusTextColor": null,
       "scaleData": [
-        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
-        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
-        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": "10 kg", "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "21 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "25 kg", "bottomLabel": "High" },
         { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
       ],
       "scaleDataDescription": "Is the measurement body fat mass, it includes the body fat percentage (BFP) which is calculated as total mass of fat divided by total body mass, multiplied by 100. The body fat percentage is a measure of fitness level and it is the only body measurement which directly calculates a person's relative body composition without the need of height or weight parameters.",
@@ -72,9 +72,9 @@
       "statusBackgroundColor": null,
       "statusTextColor": null,
       "scaleData": [
-        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
-        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
-        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": "10 kg", "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "21 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "25 kg", "bottomLabel": "High" },
         { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
       ],
       "scaleDataDescription": "Bone mass is the total amount of mass attributed to bone. Dry bone mass is derived from age and lean body mass which is the difference of total body mass and total body fat. On average, a user's dry bone mass will be around 7% of their total weight. The value will typically be higher for younger adults and lower for older.",
@@ -88,9 +88,9 @@
       "statusBackgroundColor": null,
       "statusTextColor": null,
       "scaleData": [
-        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": null, "bottomLabel": "Low" },
-        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "78 kg", "bottomLabel": "Standart" },
-        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "93.7 kg", "bottomLabel": "High" },
+        { "minValue": null, "maxValue": 10, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 39, "green": 169, "blue": 224}, "topLabel": "10 kg", "bottomLabel": "Low" },
+        { "minValue": 10, "maxValue": 21, "doesContainSelectedValue": true, "selectedValue": 15, "color": {"red": 255, "green": 255, "blue": 255}, "topLabel": "21 kg", "bottomLabel": "Standart" },
+        { "minValue": 21, "maxValue": 25, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 255, "green": 146, "blue": 0}, "topLabel": "25 kg", "bottomLabel": "High" },
         { "minValue": 25, "maxValue": null, "doesContainSelectedValue": false, "selectedValue": null, "color": {"red": 232, "green": 71, "blue": 0}, "topLabel": null, "bottomLabel": "Extreme" }
       ],
       "scaleDataDescription": "Muscle mass includes the weight of the muscles in a user’s body in kilograms or pounds. While the body fat percentage measures the amount of fat a person’s body holds. Burning body fat results in the accumulated muscle mass.",
